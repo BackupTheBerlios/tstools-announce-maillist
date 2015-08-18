@@ -1,0 +1,19 @@
+From tibs at tibsnjoan.co.uk  Sun Apr 20 18:58:25 2008
+From: tibs at tibsnjoan.co.uk (Tony Ibbs)
+Date: Sun, 20 Apr 2008 17:58:25 +0100
+Subject: [Tstools-announce] Version 1.10 released
+Message-ID: <78F98EF5-53C0-47A7-BB6A-B2CBC9A7C348@tibsnjoan.co.uk>
+
+The first release of the tstools is version 1.10, corresponding to the  
+project as initially open-sourced.
+
+The project home page is http://tstools.berlios.de/, which gives  
+instructions on how to retrieve the source code from subversion.
+
+Pre-built executables for various platforms can be obtained from http://developer.berlios.de/project/showfiles.php?group_id=9575 
+.
+
+All the best,
+	Tibs
+
+
